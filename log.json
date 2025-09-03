@@ -114,5 +114,18 @@
       "connection": "3g"
     },
     "Timestamp": "2025/9/4 3:00:39"
+  },
+  {
+    "Location": "latitude:37.91005473510673, longitude:139.01347739738526",
+    "MapLink": "https://www.google.com/maps?q=37.91005473510673,139.01347739738526",
+    "DeviceInfo": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+      "lang": "ja",
+      "screen": "1440x900",
+      "platform": "MacIntel",
+      "memory": 8,
+      "connection": "4g"
+    },
+    "Timestamp": "2025/9/4 3:00:56"
   }
 ]
