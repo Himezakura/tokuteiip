@@ -14,5 +14,17 @@
   {
     "text": "ido:37.910091252855416, keido:139.01358259430984",
     "timestamp": "2025/9/4 2:30:25"
+  },
+  {
+    "text": "ido:37.91004390343194, keido:139.01345447345926",
+    "deviceinfo": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15",
+      "lang": "ja",
+      "screen": "1440x900",
+      "platform": "MacIntel",
+      "memory": "unknown",
+      "connection": "unknown"
+    },
+    "timestamp": "2025/9/4 2:34:33"
   }
 ]
