@@ -231,5 +231,18 @@
       "connection": "unknown"
     },
     "Timestamp": "2025/9/4 4:35:29"
+  },
+  {
+    "Location": "latitude:37.91003147487111, longitude:139.01352866734337",
+    "MapLink": "https://www.google.com/maps?q=37.91003147487111,139.01352866734337",
+    "DeviceInfo": {
+      "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Safari/605.1.15",
+      "lang": "ja",
+      "screen": "1440x900",
+      "platform": "MacIntel",
+      "memory": "unknown",
+      "connection": "unknown"
+    },
+    "Timestamp": "2025/9/4 4:40:05"
   }
 ]
