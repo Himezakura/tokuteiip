@@ -335,5 +335,18 @@
       "connection": "unknown"
     },
     "Timestamp": "2025/9/4 10:49:04"
+  },
+  {
+    "Location": "latitude:37.92041885220352, longitude:139.02892699794376",
+    "MapLink": "https://www.google.com/maps?q=37.92041885220352,139.02892699794376",
+    "DeviceInfo": {
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0 Mobile/15E148 Safari/604.1",
+      "lang": "ja",
+      "screen": "402x874",
+      "platform": "iPhone",
+      "memory": "unknown",
+      "connection": "unknown"
+    },
+    "Timestamp": "2025/9/4 13:05:21"
   }
 ]
