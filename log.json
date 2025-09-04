@@ -491,5 +491,17 @@
       "connection": "unknown"
     },
     "Timestamp": "2025/9/4 21:35:46"
+  },
+  {
+    "Error": "Rejected",
+    "DeviceInfo": {
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Safari Line/15.11.0",
+      "lang": "ja",
+      "screen": "402x874",
+      "platform": "iPhone",
+      "memory": "unknown",
+      "connection": "unknown"
+    },
+    "Timestamp": "2025/9/4 21:36:20"
   }
 ]
