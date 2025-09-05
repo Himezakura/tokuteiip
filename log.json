@@ -607,5 +607,17 @@
       "connection": "unknown"
     },
     "Timestamp": "2025/9/5 20:23:36"
+  },
+  {
+    "Error": "Rejected",
+    "DeviceInfo": {
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23A5336a Instagram 396.0.0.34.81 (iPhone17,1; iOS 26_0; ja_JP; ja; scale=3.00; 1206x2622; IABMV/1; 786377579) NW/3",
+      "lang": "ja",
+      "screen": "402x874",
+      "platform": "iPhone",
+      "memory": "unknown",
+      "connection": "unknown"
+    },
+    "Timestamp": "2025/9/5 21:41:00"
   }
 ]
