@@ -631,5 +631,18 @@
       "connection": "unknown"
     },
     "Timestamp": "2025/9/22 2:13:29"
+  },
+  {
+    "Location": "latitude:37.92024722976666, longitude:139.0279705458364",
+    "MapLink": "https://www.google.com/maps?q=37.92024722976666,139.0279705458364",
+    "DeviceInfo": {
+      "ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/23A355 Instagram 404.0.0.27.81 (iPhone17,1; iOS 26_0_1; ja_JP; ja; scale=3.00; 1206x2622; IABMV/1; 812595035) NW/3",
+      "lang": "ja",
+      "screen": "402x874",
+      "platform": "iPhone",
+      "memory": "unknown",
+      "connection": "unknown"
+    },
+    "Timestamp": "2025/11/1 10:14:19"
   }
 ]
